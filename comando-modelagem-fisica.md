@@ -1,3 +1,3 @@
-#Comandos SQL
+# Comandos SQL
 
 Comandos usados para modelagem física.
