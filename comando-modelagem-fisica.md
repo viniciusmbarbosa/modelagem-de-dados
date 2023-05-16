@@ -5,13 +5,13 @@ Comandos usados para modelagem física.
 ## Criar banco de dados
 ```sql
 CREATE DATABASE exemplo_vinicius CHARACTER SET utf8mb4;
-```sql
+
 ## Entrar no banco de dados para usá-lo
 ```sql
 USE exemplo_vinicius (REVISAR, NÃO FUNCIONOU)
-```sql
+
 ## Criar a tabela de fabricantes
-````sql
+```sql
 CREATE TABLE fabricantes(
   id TINYINT NOT NULL PRIMARY KEY AUTO_INCREMENT, 
   nome VARCHAR(45)
