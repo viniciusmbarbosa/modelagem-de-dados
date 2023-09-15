@@ -33,3 +33,8 @@ CREATE TABLE fabricantes(
     ADD CONSTRAINT fk_produtos_fabricantes
     FOREIGN KEY(fabricante_id) REFERENCES fabricantes(id);
 ```sql
+
+
+
+
+
